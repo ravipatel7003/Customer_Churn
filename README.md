@@ -1,4 +1,4 @@
-# Customer Churn Detection Model
+# Customer Churn Prediction Model
 
 During a certain time percentage of customers who stopped using the services or products is called customer churn. The time frame could be days, months, quarters or years. The higher the customer churn, the more revenue the company losses. So, no doubt companies want to keep it as low as possible. Many companies have retention/loyalty teams to retain their customers from leaving the company. However, it is not enough for companies to rely on them. They want to identify risky customers as early as possible. So the companies can retain their customers before they go window shopping.
 
